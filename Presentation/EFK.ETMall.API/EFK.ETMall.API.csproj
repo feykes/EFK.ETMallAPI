@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Core\EFK.ETMallAPI.Application\EFK.ETMallAPI.Application.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\EFK.ETMall.Infrastructure\EFK.ETMall.Infrastructure.csproj" />
     <ProjectReference Include="..\..\Infrastructure\EFK.ETMallAPI.Persistance\EFK.ETMallAPI.Persistance.csproj" />
   </ItemGroup>
 
